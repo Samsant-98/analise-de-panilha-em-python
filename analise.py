@@ -5,4 +5,4 @@ import seaborn as sns
 sf=pd.read_excel("arquivo excel")
 df.head(nome do objeto a ser analisado)
 df.(',').('.')
-df.head()+head()/2
+df.head()+head()/pelaquantidade de produto a ser analisado
